@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npx @vue/cli create cryptonomicon
 ```
 
 ### Compiles and hot-reloads for development
